@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+typer[all]
+pypdf
+python-docx
+chromadb
+nltk
+reportlab

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+insightlens_env/
+venv/
+ENV/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Vector store data (if persisted locally and not wanted in git)
+chroma_db_data/
